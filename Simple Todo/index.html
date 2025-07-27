@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Todo</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Hey User! Add your To-Do here</h2>
+    <input id="input" placeholder="Add a task">
+    <button onclick="add()">Click me</button>
+    <ul id="list">
+        <li>Hello
+            <button class="delete-btn" onclick="deleteitem(event)">
+                <i class="fas fa-trash-alt"></i>
+            </button>
+        </li>
+    </ul>
+</div>
+
+<script src="./js.js"></script>
+
+
+
+</body>
+</html>
