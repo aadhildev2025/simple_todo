@@ -14,6 +14,12 @@ A basic and responsive To-Do List web application built using **HTML**, **CSS**,
 
 - **HTML** – Structure  
 - **CSS** – Styling  
-- **JavaScript** – Functionality  
+- **JavaScript** – Functionality
+
+## 📬 Contact
+
+**Created by Aadhil**  
+📧aadhildev2025@gmail.com  
+📱  WhatsApp: +94 71 430 4378
 
 
